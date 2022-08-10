@@ -2,7 +2,7 @@
 An iRacing Overlay App
 
 Recently started an iRacing Overlay App
-- This repo only the releases
+- This repo will only contain the releases
 
 ![Image](img/pedals.png)
 
