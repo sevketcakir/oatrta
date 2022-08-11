@@ -11,7 +11,7 @@ You can download the app [at](https://github.com/sevketcakir/oatrta/releases/dow
 [![ALT](https://youtube-md.vercel.app/UcXU4xfxEVA)](https://www.youtube.com/watch?v=UcXU4xfxEVA)
 
 ### Safety Disclaimer
-Right now, virustotal thinks the application is a trojan, see the report [at here(7c80431ad6014a8c38cb40c097285e6d99a708e5d422b60f217eeb90c28e3e99)](https://www.virustotal.com/gui/file/7c80431ad6014a8c38cb40c097285e6d99a708e5d422b60f217eeb90c28e3e99/detection). This seems like a false positive([see](https://stackoverflow.com/questions/43777106/program-made-with-pyinstaller-now-seen-as-a-trojan-horse-by-avg)), but use it with your own risk. I'm trying to change the binaries that creates the exe file. You can also check the "Relations" tab, there is no malicious activity there.
+Right now, virustotal thinks the application is safe ~~a trojan, see the report [at here(7c80431ad6014a8c38cb40c097285e6d99a708e5d422b60f217eeb90c28e3e99)](https://www.virustotal.com/gui/file/7c80431ad6014a8c38cb40c097285e6d99a708e5d422b60f217eeb90c28e3e99/detection). This seems like a false positive([see](https://stackoverflow.com/questions/43777106/program-made-with-pyinstaller-now-seen-as-a-trojan-horse-by-avg)), but use it with your own risk. I'm trying to change the binaries that creates the exe file. You can also check the "Relations" tab, there is no malicious activity there.~~
 
 ### Support
 If you like my work and want me to continue:
